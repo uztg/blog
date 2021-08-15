@@ -12,7 +12,7 @@
 ## 安装运行
 ```
 $前端
-$ git clone https://gitee.com/huang-rijian/Vue-personal-Blog-front-end.git
+$ git clone https://github.com/uztg/blog.git
 $ cd Vue-personal-Blog-front-end
 $ npm install
 $ npm run serve
